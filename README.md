@@ -7,7 +7,7 @@
 
 - Current status: I am currently a senior pursuing a bachelors degree in Data Science. 
 
-- Reading list:(Books I have read or currently reading) 
+- Reading list:(Books I have read or currently reading)              
                 
                 Financial Modeling 4th edition - Simon Benninga.
                 
